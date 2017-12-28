@@ -1,2 +1,2 @@
 # MLAPP
-*Machine Learning A Probabilistic Perspective* 阅读笔记
+*Machine Learning A Probabilistic Perspective* 笔记， 为辅助阅读与理解用。
